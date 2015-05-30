@@ -1,0 +1,11 @@
+Sat May 30 09:24:55 PDT 2015
+---------------------------
+System name: ubuntu
+User information:
+full name: JKAgencies,,,
+log name: jealanish
+uid: 1000
+gid: 1000
+HOME dir: /home/jealanish
+Default shell: /bin/bash
+-------------------------------
